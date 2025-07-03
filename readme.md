@@ -78,6 +78,9 @@ Image Handling	react-native-image-resizer, react-native-image-picker
 PDF Tools	react-native-pdf-lib, react-native-fs
 Permissions	react-native-permissions
 🧩 Tools Overview (with Tech)
+
+Bouns App Find My Phone By Clapping
+
 📄 1. PDF Toolkit
 
 🛠 Features:
