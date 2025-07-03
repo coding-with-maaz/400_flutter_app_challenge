@@ -1,6 +1,6 @@
 📱 Build. Learn. Launch. Repeat.
 
-Welcome to the 400 Flutter App Challenge – an ambitious journey to build 400 unique and monetizable Flutter mobile apps, ranging from powerful utilities and AI tools to productivity boosters and fun creative apps.
+Welcome to the 400 Flutter + React Native + Andriod with Dashboard App Challenge – an ambitious journey to build 400 unique and monetizable Flutter mobile apps, ranging from powerful utilities and AI tools to productivity boosters and fun creative apps.
 
 This project is designed to:
 
